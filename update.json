@@ -1,11 +1,12 @@
 {
   "homepage": "https://github.com/augusto-nalin/anr-trackpad-rel/releases",
   "promos": {
-    "1.21.1-latest": "1.1.0",
-    "1.21.1-recommended": "1.1.0"
+    "1.21.1-latest": "1.2.0",
+    "1.21.1-recommended": "1.2.0"
   },
   "1.12.2": {},
   "1.21.1": {
-    "1.1.0": "- For Minecraft 1.21.1 (NeoForge).\n- Input only: aim assist is the separate add-on ANR's Aim Assist.\n- Attack and use on keys (X / Z), slower hotbar scrolling, and screens that open where your cursor was.\n- Trackpad gestures (macOS): swipe sideways to change weapon, deep press to keep mining or using.\n- Hotbar switcher: Cmd + two-finger swipe pops up a big hotbar, with inventory rows below; swipe or point, let go to pick a slot or swap an item into your hand. It's the companion mod ANR's Hotbar Switcher, installed with this one.\n- Flick turn: a quick three-finger flick turns you 90\u00b0 or right round.\n- Force feedback: feel mining, hits, damage and more as trackpad taps.\n- Magic Mouse: three-finger middle click, right click with a resting finger, calmer hotbar scroll, and tap / swipe gestures."
+    "1.1.0": "- For Minecraft 1.21.1 (NeoForge).\n- Input only: aim assist is the separate add-on ANR's Aim Assist.\n- Attack and use on keys (X / Z), slower hotbar scrolling, and screens that open where your cursor was.\n- Trackpad gestures (macOS): swipe sideways to change weapon, deep press to keep mining or using.\n- Hotbar switcher: Cmd + two-finger swipe pops up a big hotbar, with inventory rows below; swipe or point, let go to pick a slot or swap an item into your hand. It's the companion mod ANR's Hotbar Switcher, installed with this one.\n- Flick turn: a quick three-finger flick turns you 90\u00b0 or right round.\n- Force feedback: feel mining, hits, damage and more as trackpad taps.\n- Magic Mouse: three-finger middle click, right click with a resting finger, calmer hotbar scroll, and tap / swipe gestures.",
+    "1.2.0": "- Scrolling on the trackpad can open the hotbar switcher (its Open On Scroll setting; needs ANR's Hotbar Switcher 0.3.0)."
   }
 }
